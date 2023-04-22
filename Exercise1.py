@@ -3,5 +3,10 @@
 name = input("Enter your name:")
 print("Hello, " + name)
 
-# Output: Enter your name: Kanye West
-# Hello, Kanye West
+"""
+Output:
+
+Enter your name:Kanye West
+Hello, Kanye West
+
+"""

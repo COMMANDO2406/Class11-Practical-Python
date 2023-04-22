@@ -9,4 +9,12 @@ else:
     print("The largest number is:",num2)
     print("The smallest number is:",num1)
 
-# Output: 
+"""
+Output:
+
+Enter the first number:100
+Enter the second number:20
+The largest number is: 100
+The smallest number is: 20
+
+"""
